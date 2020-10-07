@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqB3CrkCdKgE1FoA6sDLhpUaZ8qsDY3qG9XlHbFV+B0ko31mLt3RF9oYYpLFR59L6in3mLmwqlTgzp2SM4M4LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\LearningASPNET\\FirstCore\\FirstCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

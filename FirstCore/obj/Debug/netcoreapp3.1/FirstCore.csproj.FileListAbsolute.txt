@@ -1,0 +1,15 @@
+C:\Learning\LearningASPNET\FirstCore\bin\Debug\netcoreapp3.1\FirstCore.exe
+C:\Learning\LearningASPNET\FirstCore\bin\Debug\netcoreapp3.1\FirstCore.deps.json
+C:\Learning\LearningASPNET\FirstCore\bin\Debug\netcoreapp3.1\FirstCore.runtimeconfig.json
+C:\Learning\LearningASPNET\FirstCore\bin\Debug\netcoreapp3.1\FirstCore.runtimeconfig.dev.json
+C:\Learning\LearningASPNET\FirstCore\bin\Debug\netcoreapp3.1\FirstCore.dll
+C:\Learning\LearningASPNET\FirstCore\bin\Debug\netcoreapp3.1\FirstCore.pdb
+C:\Learning\LearningASPNET\FirstCore\obj\Debug\netcoreapp3.1\FirstCore.csprojAssemblyReference.cache
+C:\Learning\LearningASPNET\FirstCore\obj\Debug\netcoreapp3.1\FirstCore.AssemblyInfoInputs.cache
+C:\Learning\LearningASPNET\FirstCore\obj\Debug\netcoreapp3.1\FirstCore.AssemblyInfo.cs
+C:\Learning\LearningASPNET\FirstCore\obj\Debug\netcoreapp3.1\FirstCore.csproj.CoreCompileInputs.cache
+C:\Learning\LearningASPNET\FirstCore\obj\Debug\netcoreapp3.1\FirstCore.dll
+C:\Learning\LearningASPNET\FirstCore\obj\Debug\netcoreapp3.1\FirstCore.pdb
+C:\Learning\LearningASPNET\FirstCore\obj\Debug\netcoreapp3.1\FirstCore.genruntimeconfig.cache
+C:\Learning\LearningASPNET\FirstCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Learning\LearningASPNET\FirstCore\obj\Debug\netcoreapp3.1\FirstCore.csproj.CopyComplete
